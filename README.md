@@ -13,7 +13,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/adriän-khalatbari/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Adriän Khalatbari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adrian-khalatbari/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Adrian Khalatbari-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:khalatbari.mokaram@gmail.com"><img src="https://img.shields.io/badge/-khalatbari.mokaram@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
